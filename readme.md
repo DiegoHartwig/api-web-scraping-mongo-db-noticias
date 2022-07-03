@@ -1,4 +1,4 @@
-## Web Scraping para buscar informações de Curitiba
+## Web Scraping para buscar informações e persistir no MongoDB
 
 - .NET
 - MongoDB
